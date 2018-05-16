@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DA4446AC-6ED3-4529-BF81-546769DC607D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMvcCore/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FirstMvcCore/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="FirstMvcCore/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="FirstMvcCore/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstMvcCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/bin/Debug/netcoreapp2.0/FirstMvcCore.deps.json
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/bin/Debug/netcoreapp2.0/FirstMvcCore.runtimeconfig.json
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/bin/Debug/netcoreapp2.0/FirstMvcCore.runtimeconfig.dev.json
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/bin/Debug/netcoreapp2.0/FirstMvcCore.dll
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/bin/Debug/netcoreapp2.0/FirstMvcCore.pdb
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.csprojResolveAssemblyReference.cache
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.csproj.CoreCompileInputs.cache
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.AssemblyInfoInputs.cache
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.AssemblyInfo.cs
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.dll
+/Users/tungtram/Projects/FirstMvcCore/FirstMvcCore/obj/Debug/netcoreapp2.0/FirstMvcCore.pdb
